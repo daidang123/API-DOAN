@@ -1,36 +1,19 @@
 {
   "posts": [
-      { "post1": [
-          {
-            "id": 1,
-            "title_product":"ÁO LINEN THUN THÊU CỔ SFA1017",
-            "author": "12345",
-            "img_path":"https://pos.nvncdn.net/7d27de-65076/ps/20230920_4TGuDTV1y3.jpeg"
-          },
-          {
-            "id": 2,
-            "title_product":"ÁO LINEN THUN THÊU CỔ SFA1017",
-            "author": "12345",
-            "img_path":"https://pos.nvncdn.net/7d27de-65076/ps/20230920_4TGuDTV1y3.jpeg"
-          }
-        ]  
-      },
-      { "post2": [
-        {
-          "id": 3,
-          "title_product":"ÁO LINEN THUN THÊU CỔ SFA1017",
-          "author": "12345",
-          "img_path":"https://pos.nvncdn.net/7d27de-65076/ps/20230920_4TGuDTV1y3.jpeg"
-        },
-        {
-          "id": 4,
-          "title_product":"ÁO LINEN THUN THÊU CỔ SFA1017",
-          "author": "12345",
-          "img_path":"https://pos.nvncdn.net/7d27de-65076/ps/20230920_4TGuDTV1y3.jpeg"
-        }
-      ]  
+    {
+      "id": 1,
+      "title_product":"ÁO LINEN THUN THÊU CỔ SFA1017",
+      "author": "12345",
+      "src": "https://pos.nvncdn.net/7d27de-65076/ps/20230920_4TGuDTV1y3.jpeg",
+      "imgs_path":["https://pos.nvncdn.net/7d27de-65076/ps/20230920_4TGuDTV1y3.jpeg", "https://pos.nvncdn.net/7d27de-65076/ps/20230920_4TGuDTV1y3.jpeg","https://pos.nvncdn.net/7d27de-65076/ps/20230920_4TGuDTV1y3.jpeg","https://pos.nvncdn.net/7d27de-65076/ps/20230920_4TGuDTV1y3.jpeg","https://pos.nvncdn.net/7d27de-65076/ps/20230920_4TGuDTV1y3.jpeg","https://pos.nvncdn.net/7d27de-65076/ps/20230920_4TGuDTV1y3.jpeg","https://pos.nvncdn.net/7d27de-65076/ps/20230920_4TGuDTV1y3.jpeg"]
+    },
+    {
+      "id": 2,
+      "title_product":"ÁO LINEN THUN THÊU CỔ SFA1017",
+      "author": "12345",
+      "src": "https://pos.nvncdn.net/7d27de-65076/ps/20230920_4TGuDTV1y3.jpeg",
+      "imgs_path":["https://pos.nvncdn.net/7d27de-65076/ps/20230920_4TGuDTV1y3.jpeg", "https://pos.nvncdn.net/7d27de-65076/ps/20230920_4TGuDTV1y3.jpeg","https://pos.nvncdn.net/7d27de-65076/ps/20230920_4TGuDTV1y3.jpeg","https://pos.nvncdn.net/7d27de-65076/ps/20230920_4TGuDTV1y3.jpeg","https://pos.nvncdn.net/7d27de-65076/ps/20230920_4TGuDTV1y3.jpeg","https://pos.nvncdn.net/7d27de-65076/ps/20230920_4TGuDTV1y3.jpeg","https://pos.nvncdn.net/7d27de-65076/ps/20230920_4TGuDTV1y3.jpeg"]
     }
-
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
