@@ -2,38 +2,199 @@
   "posts": [
     {
       "id": 1,
-      "title_product":"ÁO LINEN THUN THÊU CỔ SFA1017",
-      "author": "12345",
-      "src": "https://pos.nvncdn.net/7d27de-65076/ps/20230628_3PWsJ18wp4.jpeg",
-      "imgs_path":["https://pos.nvncdn.net/7d27de-65076/ps/20230628_3PWsJ18wp4.jpeg", "https://pos.nvncdn.net/7d27de-65076/ps/20230920_4TGuDTV1y3.jpeg","https://pos.nvncdn.net/7d27de-65076/ps/20230920_4TGuDTV1y3.jpeg","https://pos.nvncdn.net/7d27de-65076/ps/20230920_4TGuDTV1y3.jpeg","https://pos.nvncdn.net/7d27de-65076/ps/20230920_4TGuDTV1y3.jpeg","https://pos.nvncdn.net/7d27de-65076/ps/20230920_4TGuDTV1y3.jpeg","https://pos.nvncdn.net/7d27de-65076/ps/20230920_4TGuDTV1y3.jpeg"]
+      "title_product": "BỘ PIJAMAS LỤA IN ÁO CỘC QUẦN DÀI ST9070",
+      "author": "ST9070",
+      "price_old":"999,000 vnđ",
+      "price_current":"899,000 vnđ",
+      "material":"Thun tằm",
+      "src": "https://pos.nvncdn.net/7d27de-65076/ps/20230920_8kBH57HBK8.jpeg",
+      "colors": [
+        {
+          "color": "#5fabbb",
+          "title": "xanh ngọc",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20230920_8kBH57HBK8.jpeg",
+            "https://pos.nvncdn.net/7d27de-65076/ps/20230920_ZKT0WySd3O.jpeg",
+            ""
+          ]
+        },
+        {
+          "color": "#dabed4",
+          "title": "Xanh hồng",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20230914_IxkIS65U0I.jpeg"
+          ]
+        },
+        {
+          "color": "#688db7",
+          "title": "Xanh tím",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20230915_MjSLSO00BF.jpeg"
+          ]
+        }
+      ]
     },
     {
       "id": 2,
-      "title_product":"BỘ PIJAMAS LANH ÁO TAY HẾN QUẦN TRÊN GỐI ST9060",
-      "author": "12345",
-      "src": "https://pos.nvncdn.net/7d27de-65076/ps/20230920_4TGuDTV1y3.jpeg",
-      "imgs_path":["https://pos.nvncdn.net/7d27de-65076/ps/20230920_4TGuDTV1y3.jpeg", "https://pos.nvncdn.net/7d27de-65076/ps/20230628_lfgroFqO3I.jpeg","https://pos.nvncdn.net/7d27de-65076/ps/20230628_VAbNEs9WaT.jpeg","https://pos.nvncdn.net/7d27de-65076/ps/20230628_lfgroFqO3I.jpeg","https://pos.nvncdn.net/7d27de-65076/ps/20230920_4TGuDTV1y3.jpeg","https://pos.nvncdn.net/7d27de-65076/ps/20230920_4TGuDTV1y3.jpeg","https://pos.nvncdn.net/7d27de-65076/ps/20230920_4TGuDTV1y3.jpeg"]
+      "title_product": "BỘ PIJAMAS LỤA GẤM ÁO TAY LỠ DÀI QUẦN DÀI ST9089",
+      "author": "ST9089",
+      "price_old":"769,000 vnđ",
+      "price_current":"499,000 vnđ",
+      "material":"Thun tằm",
+      "src": "https://pos.nvncdn.net/7d27de-65076/ps/20230913_3uC9c9s5zS.jpeg",
+      "colors": [
+        {
+          "color": "#364487",
+          "title": "Xanh men ngọc",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20230913_3uC9c9s5zS.jpeg"
+          ]
+        },
+        {
+          "color": "#d190a8",
+          "title": "Hồng tây",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20230913_Zm8WUaBm4L.jpeg",
+            "https://pos.nvncdn.net/7d27de-65076/ps/20230913_sjMtYn5ZQF.jpeg",
+            "https://pos.nvncdn.net/7d27de-65076/ps/20230913_EHbk4sZOlP.jpeg"
+          ]
+        },
+        {
+          "color": "#bfb8e8",
+          "title": "Tím oải hương",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20230913_CV1IJCjHso.jpeg"      
+          ]
+        },
+        {
+          "color": "#96c8c5",
+          "title": "xanh bạc hà",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20230913_Xng37YaOuY.jpeg"      
+          ]
+        }
+      ]
     },
     {
       "id": 3,
-      "title_product":"BỘ PIJAMAS LANH ÁO CỘC QUẦN SOOC ST9055",
-      "author": "12345",
-      "src": "https://pos.nvncdn.net/7d27de-65076/ps/20230614_TnnjUicTaz.jpeg",
-      "imgs_path":["https://pos.nvncdn.net/7d27de-65076/ps/20230614_TnnjUicTaz.jpeg", "https://pos.nvncdn.net/7d27de-65076/ps/20230614_cBzGnyLpTC.jpeg","https://pos.nvncdn.net/7d27de-65076/ps/20230614_JrKoQiFq6O.jpeg","https://pos.nvncdn.net/7d27de-65076/ps/20230614_4upHUM8wKv.jpeg"]
+      "title_product": "BỘ PIJAMAS LỤA ÁO CỘC QUẦN DÀI ST9101",
+      "author": "ST9101",
+      "price_old":"469,000 vnđ",
+      "price_current":"369,000 vnđ",
+      "material":"Thun tằm",
+      "src": "https://pos.nvncdn.net/7d27de-65076/ps/20230913_MpVk6wni9y.jpeg",
+      "colors": [
+        {
+          "color": "#4a6195",
+          "title": "Xanh Navy",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20230913_MpVk6wni9y.jpeg",
+            "https://pos.nvncdn.net/7d27de-65076/ps/20230913_0aBLeo8tZX.jpeg"         
+          ]
+        },
+        {
+          "color": "#d190a8",
+          "title": "Hồng tây",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20230913_KgoCBwLros.jpeg"                   
+          ]
+        },
+        {
+          "color": "#4d6148",
+          "title": "Xanh rừng sâu",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20230913_jX0qo9e1E9.jpeg"                   
+          ]
+        }
+      ]
     },
     {
       "id": 4,
-      "title_product":"ĐỒ BỘ MẶC NHÀ LANH ÁO SÁT NÁCH QUẦN SOOC ST9040",
-      "author": "12345",
-      "src": "https://pos.nvncdn.net/7d27de-65076/ps/20230628_k7KmOLLMsS.jpeg",
-      "imgs_path":["https://pos.nvncdn.net/7d27de-65076/ps/20230628_k7KmOLLMsS.jpeg", "https://pos.nvncdn.net/7d27de-65076/ps/20230628_yknjy7sSfM.jpeg","https://pos.nvncdn.net/7d27de-65076/ps/20230628_J9Zz8aBhev.jpeg"]
+      "title_product": "BỘ PIJAMAS LỤA ÁO CỘC QUẦN DÀI ST9105",
+      "author": "ST9105",
+      "price_old":"100000",
+      "price_current":"2000000",
+      "material":"Thun tằm",
+      "src": "https://pos.nvncdn.net/7d27de-65076/ps/20230913_8J0oQECrwq.jpeg",
+      "colors": [
+        {
+          "color": "#517c9c",
+          "title": "xanh đá",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20230913_DYw0iegiE2.jpeg",
+            "https://pos.nvncdn.net/7d27de-65076/ps/20230913_8J0oQECrwq.jpeg"
+           
+          ]
+        },
+        {
+          "color": "#293064",
+          "title": "Xanh tím than",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20230913_UCWxKN9h1G.jpeg"
+           
+          ]
+        },
+        {
+          "color": "#f2c14a",
+          "title": "Vàng",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20230913_KJd6Qss0rC.jpeg"
+           
+          ]
+        },
+        {
+          "color": " #f0c8c6",
+          "title": "Hồng",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20230913_USNQUcIP2g.jpeg"
+           
+          ]
+        }
+      ]
     },
     {
       "id": 5,
-      "title_product":"ĐỒ BỘ MẶC NHÀ LANH ÁO CỘC QUẦN NGỐ SP2130",
-      "author": "12345",
-      "src": "https://pos.nvncdn.net/7d27de-65076/ps/20230628_CJsfukr4XW.jpeg",
-      "imgs_path":["https://pos.nvncdn.net/7d27de-65076/ps/20230628_CJsfukr4XW.jpeg", "https://pos.nvncdn.net/7d27de-65076/ps/20230628_YoaZ9aeT8Y.jpeg","https://pos.nvncdn.net/7d27de-65076/ps/20230628_YoaZ9aeT8Y.jpeg","https://pos.nvncdn.net/7d27de-65076/ps/20230628_YoaZ9aeT8Y.jpeg"]
+      "title_product": "ĐỒ BỘ MẶC NHÀ COTTON ÁO DÀI QUẦN DÀI ST9091",
+      "author": "ST9091",
+      "price_old":"469,000 vnđ",
+      "price_current":"569,000 vnđ",
+      "material":"Lanh",
+      "src": "https://pos.nvncdn.net/7d27de-65076/ps/20230913_GKt7KhQbiX.jpeg",
+      "colors": [
+        {
+          "color": "#baaed2",
+          "title": "tím nhạt",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20230913_GKt7KhQbiX.jpeg",
+            "https://pos.nvncdn.net/7d27de-65076/ps/20230913_BzlL4KK7WE.jpeg"
+           
+          ]
+        },
+        {
+          "color": " #ffaf94",
+          "title": "Hồng anh đào",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20230913_MZpcTtdxef.jpeg"
+           
+          ]
+        },
+        {
+          "color": "#e2c8b9",
+          "title": "Cafe sữa",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20230913_UkiO20iP4q.jpeg"
+           
+          ]
+        },
+        {
+          "color": "#2e3b41",
+          "title": "Đen",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20230913_LhtzvLXMym.jpeg"
+           
+          ]
+        }
+      ]
     }
   ],
   "comments": [
