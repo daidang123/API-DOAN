@@ -163,6 +163,8 @@
       "price_old":"469,000 vnđ",
       "price_current":"569,000 vnđ",
       "material":"Lanh",
+      "tagCalcItem":"-10%",
+      "tagNewItem":"new",
       "size":["S","M","L"],
       "src": "https://pos.nvncdn.net/7d27de-65076/ps/20230913_GKt7KhQbiX.jpeg",
       "colors": [
@@ -200,6 +202,513 @@
           ]
         }
       ]
+    },
+
+    {
+      "id": 6,
+      "title_product": "ĐỒ BỘ MẶC NHÀ COTTON ÁO TAY LỠ QUẦN DÀI ST9109",
+      "author": "ST9109",
+      "price_old":"579,000 vnđ",
+      "price_current":"569,000 vnđ",
+      "category":"Mặc Nhà",
+      "tagCalcItem":"-20%",
+      "tagNewItem":"new",
+      "material":"Lanh",
+      "size":["S","M","L","XL"],
+      "src": "https://pos.nvncdn.net/7d27de-65076/ps/20231011_2STh20Re7d.jpeg",
+      "colors": [
+        {
+          "color": "#be1929",
+          "title": "Đỏ viva",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20231011_lSihzwMMQW.jpeg"
+            
+          ]
+        },
+        {
+          "color": " #a1b6ad",
+          "title": "Xanh diệp lục",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20231011_Ebw2tYOelz.jpeg"
+           
+          ]
+        },
+        {
+          "color": "#beb9d9",
+          "title": "Oải hương",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20231011_waDLJunqGA.jpeg"
+           
+          ]
+        },
+        {
+          "color": "#293064",
+          "title": "Xanh tím than",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20231011_2STh20Re7d.jpeg"
+           
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title_product": "BỘ PIJAMAS LỤA ÁO TAY LỠ DÀI QUẦN DÀI ST9094",
+      "author": "ST9094",
+      "price_old":"599,000 vnđ",
+      "price_current":"566,000 vnđ",
+      "category":"Mặc Nhà",
+      "tagCalcItem":"-10%",
+      "tagNewItem":"new",
+      "material":"Lanh",
+      "size":["S","M","L","XL"],
+      "src": "https://pos.nvncdn.net/7d27de-65076/ps/20231006_4HfMeOnhIW.jpeg",
+      "colors": [
+        {
+          "color": "#a99c7a",
+          "title": "Xanh cỏ úa",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20231006_wc94kA2AkJ.jpeg" 
+          ]
+        },
+        {
+          "color": "#a07b75",
+          "title": "Nâu cafe",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20231006_v2QBaHDs1u.jpeg"          
+          ]
+        },
+        {
+          "color": "#65838b",
+          "title": "Xanh rừng đông",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20231006_nxmqvm7Zr6.jpeg"
+           
+          ]
+        },
+        {
+          "color": "#161922",
+          "title": "Đen huyền",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20231006_PxMJIhEbx5.jpeg",
+            "https://pos.nvncdn.net/7d27de-65076/ps/20231006_lCAmsNWq6J.jpeg",
+            "https://pos.nvncdn.net/7d27de-65076/ps/20231006_UFwURlUbAC.jpeg"
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title_product": "BỘ PIJAMAS LỤA ÁO TAY LỠ QUẦN DÀI ST9090",
+      "author": "ST9090",
+      "price_old":"699,000 vnđ",
+      "price_current":"666,000 vnđ",
+      "category":"Mặc Nhà",
+      "tagCalcItem":false,
+      "tagNewItem":"new",
+      "material":"Lanh",
+      "size":["S","M","L","XL"],
+      "src": "https://pos.nvncdn.net/7d27de-65076/ps/20231011_49ehV9UeMp.jpeg",
+      "colors": [
+        {
+          "color": "#a0a199",
+          "title": "Xanh thảo nguyên",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20231011_49ehV9UeMp.jpeg" 
+          ]
+        },
+        {
+          "color": "#a39595",
+          "title": "Nâu khói",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20231011_G9Sy8GS5b7.jpeg",
+            "https://pos.nvncdn.net/7d27de-65076/ps/20231011_IS0xP2rgOe.jpeg"          
+          ]
+        },
+        {
+          "color": "#8b0134",
+          "title": "Đỏ yên chi",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20231011_kYkLAB6lA2.jpeg",
+            "https://pos.nvncdn.net/7d27de-65076/ps/20231011_IAkDN2eghc.jpeg"
+           
+          ]
+        },
+        {
+          "color": "#15607d",
+          "title": "Xanh lục bảo",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20231011_U4VuEsjQvv.jpeg"
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title_product": "ĐỒ BỘ MẶC NHÀ COTTON ÁO DÀI QUẦN DÀI SP2156",
+      "author": "SP2156",
+      "price_old":"512,100 vnđ",
+      "price_current":"226,000 vnđ",
+      "category":"Mặc Nhà",
+      "tagCalcItem":"-10%",
+      "tagNewItem":"new",
+      "material":"Lanh",
+      "size":["S","M","L","XXL"],
+      "src": "https://pos.nvncdn.net/7d27de-65076/ps/20231006_DIoAquXifU.jpeg",
+      "colors": [
+        {
+          "color": "#a6d1cd",
+          "title": "Xanh beryl",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20231006_DIoAquXifU.jpeg" 
+          ]
+        },
+        {
+          "color": "#15607d",
+          "title": "Xanh lục bảo",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20231006_5OGrUsa6Jn.jpeg"
+                   
+          ]
+        },
+        {
+          "color": "#8b0134",
+          "title": "tím nho",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20231006_5d0BB5Kyc0.jpeg"
+           
+          ]
+        },
+        {
+          "color": "#293064",
+          "title": "Xanh tím than",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20231006_dahjDAb5Hk.jpeg"
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title_product": "BỘ PIJAMAS LỤA IN ÁO TAY LỠ DÀI QUẦN DÀI ST9088",
+      "author": "ST9088",
+      "price_old":"712,100 vnđ",
+      "price_current":"555,000 vnđ",
+      "category":"Mặc Nhà",
+      "tagCalcItem":"-10%",
+      "tagNewItem":"new",
+      "material":"Lanh",
+      "size":["S","M","L","XXL"],
+      "src": "https://pos.nvncdn.net/7d27de-65076/ps/20231011_nZXFeRn5rp.jpeg",
+      "colors": [
+        {
+          "color": "1893871",
+          "title": "Nâu socola",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20231011_nZXFeRn5rp.jpeg" 
+          ]
+        },
+        {
+          "color": "#2f363e",
+          "title": "Đen be",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20231011_ZhX631VjxE.jpeg"
+                   
+          ]
+        },
+        {
+          "color": "#384e5c",
+          "title": "Xanh lá cổ",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20231011_H8MvVgQsJy.jpeg",
+            "https://pos.nvncdn.net/7d27de-65076/ps/20231011_ZCY1UZp4cH.jpeg"
+           
+          ]
+        },
+        {
+          "color": "#893e65",
+          "title": "Tím tử đằng",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20231011_rk9Q6GyaTP.jpeg"
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title_product": "BỘ LINEN XƯỚC ÁO DÁNG VEST QUẦN CÔN SFB3035",
+      "author": "SFB3035",
+      "price_old":"712,100 vnđ",
+      "price_current":"555,000 vnđ",
+      "category":"Dạo Phố",
+      "tagCalcItem":"-10%",
+      "tagNewItem":"new",
+      "material":"Cotton",
+      "size":["S","M","L","XXL"],
+      "src": "https://pos.nvncdn.net/7d27de-65076/ps/20231011_uIxpePg81B.jpeg",
+      "colors": [
+        {
+          "color": "#293064",
+          "title": "Nâu socola",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20231011_XVo6HtXYrj.jpeg'" 
+          ]
+        },
+        {
+          "color": "#a4c6b1",
+          "title": "Vỏ đậu",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20231011_uIxpePg81B.jpeg",
+            "https://pos.nvncdn.net/7d27de-65076/ps/20231011_enRC5k6LLD.jpeg"
+                   
+          ]
+        },
+        {
+          "color": "#e1c3ac",
+          "title": "be",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20231011_i7ciJdkpBU.jpeg"
+           
+          ]
+        }
+      
+      ]
+    },
+    {
+      "id": 12,
+      "title_product": "ĐẦM LINEN TƯNG TAY LỠ THẮT DÂY EO SFB3033",
+      "author": "SFB3033",
+      "price_old":"777,100 vnđ",
+      "price_current":"455,000 vnđ",
+      "category":"Dạo Phố",
+      "tagCalcItem":"-10%",
+      "tagNewItem":"new",
+      "material":"Cotton",
+      "size":["S","M","L"],
+      "src": "https://pos.nvncdn.net/7d27de-65076/ps/20230926_XsZExXjbG8.jpeg",
+      "colors": [
+        {
+          "color": "#d2b474",
+          "title": "Vàng đậm",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20230926_Y279vsNGJX.jpeg" 
+          ]
+        },
+        {
+          "color": "#baaed2",
+          "title": "tím nhạt",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20230926_XsZExXjbG8.jpeg",
+            "https://pos.nvncdn.net/7d27de-65076/ps/20230926_apNjCWg8Ac.jpeg"
+                   
+          ]
+        },
+        {
+          "color": "#ee6742",
+          "title": "cam đậm",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20230926_9BR1AuiGeO.jpeg"
+           
+          ]
+        }
+      
+      ]
+    },
+    {
+      "id": 13,
+      "title_product": "ÁO THUN DÀI TAY SFA1020",
+      "author": "SFA1020",
+      "price_old":"777,100 vnđ",
+      "price_current":"355,000 vnđ",
+      "category":"Dạo Phố",
+      "tagCalcItem":"-10%",
+      "tagNewItem":"new",
+      "material":"Cotton",
+      "size":["S","M","L","XL"],
+      "src": "https://pos.nvncdn.net/7d27de-65076/ps/20230920_7N8LT604CN.jpeg",
+      "colors": [
+        {
+          "color": " #dea97f",
+          "title": "Cafe đá",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20230920_Y8ksK5V9kK.jpeg",
+            "https://pos.nvncdn.net/7d27de-65076/ps/20230920_7N8LT604CN.jpeg"
+          ]
+        },
+        {
+          "color": "#2e3b41",
+          "title": "Đen",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20230829_FH90codjul.jpeg"
+                   
+          ]
+        },
+        {
+          "color": "#f6f8fb",
+          "title": "Trắng",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20230829_Jl7vn4rqwl.jpeg",
+            "https://pos.nvncdn.net/7d27de-65076/ps/20230921_HLV2g8nd92.jpeg",
+            "https://pos.nvncdn.net/7d27de-65076/ps/20230921_DlctTLDaev.jpeg"
+           
+          ]
+        }
+      
+      ]
+    },
+    {
+      "id": 13,
+      "title_product": "ÁO CHỐNG NẮNG COTTON KÉO KHÓA CÓ MŨ SA9206",
+      "author": "SA9206",
+      "price_old":"877,100 vnđ",
+      "price_current":"255,000 vnđ",
+      "category":"Mặc Ngoài",
+      "tagCalcItem":"-10%",
+      "tagNewItem":"new",
+      "material":"Cotton",
+      "size":["M","L","XL"],
+      "src": "https://pos.nvncdn.net/7d27de-65076/ps/20210525_NjFW8xMBQvD1BqoC0RIpjZ11.jpg",
+      "colors": [
+        {
+          "color": " #d2246b",
+          "title": "tím cẩm",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20210525_hCxJYISs812R1wEap5EddM3I.jpg",
+            "https://pos.nvncdn.net/7d27de-65076/ps/20210602_oF9TmFyZbR938XnkhDMYB2OE.JPG"
+          ]
+        },
+        {
+          "color": "#db8fbd",
+          "title": "hồng phấn",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20210525_Z4lk6tz6emdUUkVkAjArslXL.jpg",
+            "https://pos.nvncdn.net/7d27de-65076/ps/20210602_C5fZrGwM2sDKsTLjSh5LFcUX.jpg"
+                   
+          ]
+        }
+      
+      ]
+    },
+    {
+      "id": 14,
+      "title_product": "ÁO CHỐNG NẮNG COTTON KÉO KHÓA CÓ MŨ SA9206",
+      "author": "SA9206",
+      "price_old":"877,100 vnđ",
+      "price_current":"255,000 vnđ",
+      "category":"Mặc Ngoài",
+      "tagCalcItem":"-10%",
+      "tagNewItem":"new",
+      "material":"Cotton",
+      "size":["M","L","XL"],
+      "src": "https://pos.nvncdn.net/7d27de-65076/ps/20210525_NjFW8xMBQvD1BqoC0RIpjZ11.jpg",
+      "colors": [
+        {
+          "color": " #d2246b",
+          "title": "tím cẩm",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20210525_hCxJYISs812R1wEap5EddM3I.jpg",
+            "https://pos.nvncdn.net/7d27de-65076/ps/20210602_oF9TmFyZbR938XnkhDMYB2OE.JPG"
+          ]
+        },
+        {
+          "color": "#db8fbd",
+          "title": "hồng phấn",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20210525_Z4lk6tz6emdUUkVkAjArslXL.jpg",
+            "https://pos.nvncdn.net/7d27de-65076/ps/20210602_C5fZrGwM2sDKsTLjSh5LFcUX.jpg"
+                   
+          ]
+        }
+      
+      ]
+    },
+    {
+      "id": 15,
+      "title_product": "ÁO CHỐNG NẮNG COTTON DÁNG DÀI KÉO KHÓA CÓ MŨ SA9204",
+      "author": "SA9204",
+      "price_old":"877,100 vnđ",
+      "price_current":"455,000 vnđ",
+      "category":"Mặc Ngoài",
+      "tagCalcItem":"-10%",
+      "tagNewItem":"new",
+      "material":"Cotton",
+      "size":["S","M","L"],
+      "src": "https://pos.nvncdn.net/7d27de-65076/ps/20230810_n6DHIdRaON.jpeg",
+      "colors": [
+        {
+          "color": " #d2246b",
+          "title": "tím cẩm",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20210518_zJZmCUoh1Twjh8nN7Gq1GZGx.jpg",
+            "https://pos.nvncdn.net/7d27de-65076/ps/20210519_9KukCm9lWHX8J1AU3ZXvvVCc.jpg"
+          ]
+        },
+        {
+          "color": "#db8fbd",
+          "title": "hồng phấn",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20210515_woTQApPjysDVCSm77Cjb3bVR.jpg"                  
+          ]
+        },
+        {
+          "color": "#2c5e83",
+          "title": "xanh air",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20210515_woTQApPjysDVCSm77Cjb3bVR.jpg"                  
+          ]
+        },
+        {
+          "color": "#d8d7dc",
+          "title": "Xám",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20210518_LMQ9LqRP83ochd0G2hUN6yG0.jpg" ,
+            "https://pos.nvncdn.net/7d27de-65076/ps/20210519_qS87ms0iT85aNgIV8PlW1qTK.jpg"
+                             
+          ]
+        },
+        {
+          "color": "#ff6767",
+          "title": "Cam",
+          "imgs_path": [
+            "https://pos.nvncdn.net/7d27de-65076/ps/20210515_PZxymeCyLvctb2UhPk2sXi5k.jpg" ,
+            "https://pos.nvncdn.net/7d27de-65076/ps/20210519_fLkdnsPg2uyrQItT1opbngHI.jpg"
+                             
+          ]
+        }
+      
+      ]
+    },
+    {
+      "id": 16,
+      "title_product": "TÚI KHẤU TRANG KT001",
+      "author": "KT001",
+      "price_old":false,
+      "price_current":"24,000 vnđ",
+      "category":"Phụ kiện",
+      "material":"50% Cotton - 50% Bamboo",
+      "size":false,
+      "tagCalcItem":false,
+      "tagNewItem":false,
+      "src": "https://pos.nvncdn.net/7d27de-65076/ps/20230728_clNDMmkXfi.jpeg",
+      "colors": false
+    },
+    {
+      "id": 16,
+      "title_product": "Khăn mặt Sunfly SF005 - 50% Cotton, 50% Bamboo",
+      "author": false,
+      "price_old":false,
+      "price_current":"30,000 vnđ",
+      "category":"Phụ kiện",
+      "material":"Cotton",
+      "size":false,
+      "tagCalcItem":false,
+      "tagNewItem":false,
+      "src": "https://pos.nvncdn.net/7d27de-65076/ps/20210125_l7v98BQrP8LOFVkzWwBp02dM.jpg",
+      "colors": false
     }
   ],
   "comments": [
