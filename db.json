@@ -7,6 +7,9 @@
       "price_old":"999,000",
       "price_current":"899,000",
       "material":"Thun tằm",
+      "category":"Mặc Nhà",
+      "tagCalcItem":"-30%",
+      "tagNewItem":false,
       "size":["S","M","L"],
       "src": "https://pos.nvncdn.net/7d27de-65076/ps/20230920_8kBH57HBK8.jpeg",
       "colors": [
@@ -42,6 +45,9 @@
       "price_old":"769,000",
       "price_current":"499,000",
       "material":"Cotton",
+      "category":"Mặc Nhà",
+      "tagCalcItem":"-30%",
+      "tagNewItem":false,
       "size":["S","M","L","XL"],
       "src": "https://pos.nvncdn.net/7d27de-65076/ps/20230913_3uC9c9s5zS.jpeg",
       "colors": [
@@ -84,6 +90,9 @@
       "price_old":"469,000",
       "price_current":"369,000",
       "material":"Thun tằm",
+      "category":"Mặc Nhà",
+      "tagCalcItem":"-30%",
+      "tagNewItem":false,
       "size":["S","M","L","XL"],
       "src": "https://pos.nvncdn.net/7d27de-65076/ps/20230913_MpVk6wni9y.jpeg",
       "colors": [
@@ -118,6 +127,9 @@
       "price_old":"469,000",
       "price_current":"469,000",
       "material":"Linen",
+      "category":"Mặc Nhà",
+      "tagCalcItem":"-30%",
+      "tagNewItem":false,
       "size":["S","M","L"],
       "src": "https://pos.nvncdn.net/7d27de-65076/ps/20230913_8J0oQECrwq.jpeg",
       "colors": [
@@ -163,8 +175,9 @@
       "price_old":"469,000",
       "price_current":"569,000",
       "material":"Lanh",
-      "tagCalcItem":"-10%",
-      "tagNewItem":"new",
+      "category":"Mặc Nhà",
+      "tagCalcItem":"-30%",
+      "tagNewItem":false,
       "size":["S","M","L"],
       "src": "https://pos.nvncdn.net/7d27de-65076/ps/20230913_GKt7KhQbiX.jpeg",
       "colors": [
