@@ -318,7 +318,7 @@
       "price_old":"699,000",
       "price_current":"666,000 ",
       "category":"Mặc Nhà",
-      "tagCalcItem":false,
+      "tagCalcItem":"-20%",
       "tagNewItem":"new",
       "material":"Lanh",
       "size":["S","M","L","XL"],
